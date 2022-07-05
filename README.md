@@ -1,26 +1,21 @@
 ### Hi there 👋
 
-| ![](https://picsum.photos/200/300) | | |
-| --- | --- | --- |
-| ![](https://picsum.photos/200/300) | | |
 
-
-<table border="0" cellpadding=0>
+<table border="0" cellpadding=0 color="red">
   <tr>
-    <td border="0" cellpadding="0" cellspacing="0"><img src="https://picsum.photos/200/300" style="padding: 20px"></td>
-    <td> <video controls> <source src="https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
-            type="video/mp4">
-
-    Sorry, your browser doesn't support embedded videos.
-</video> </td>
-    <td></td>
+    <td border="0" cellpadding="0" cellspacing="0"><img src="https://picsum.photos/200/300"></td>
+    <td><img src="https://picsum.photos/200/300"> </td>
+    <td><img src="https://picsum.photos/200/300"></td>
   </tr>
   
   <tr>
-    <td></td>
-    <td colspan="2"></td>
+    <td><img src="https://picsum.photos/200/300"></td>
+    <td colspan="2">
+<img src="https://picsum.photos/200/300" alt="MDN infographic" />
   </tr>
 </table>
+
+
 
 <!--
 **GrahamTheDev/GrahamTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

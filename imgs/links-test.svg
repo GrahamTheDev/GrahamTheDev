@@ -1,8 +1,0 @@
-<svg>
-  <a href="www.google.com">
-    <rect x="10" y="10" width="60" height="50" fill="#333">
-  </a>
-  <a href="www.daily.dev.com">
-    <rect x="75" y="10" width="60" height="50" fill="#ddd">
-  </a>
-</svg>

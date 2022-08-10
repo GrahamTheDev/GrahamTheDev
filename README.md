@@ -6,3 +6,8 @@
 </tr>
 
 <table>
+
+
+<center><h1>Centered</h1></center>
+<h1>Not centered</h1>
+

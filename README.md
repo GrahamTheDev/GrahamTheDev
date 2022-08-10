@@ -8,6 +8,6 @@
 <table>
 
 
-<center><h1>Centered</h1></center>
+<h1><center>Centered</center></h1>
 <h1>Not centered</h1>
 

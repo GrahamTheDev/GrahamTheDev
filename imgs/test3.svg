@@ -1,4 +1,4 @@
-        <svg version="1.1" id="svgobject" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    <svg version="1.1" id="svgobject" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 		width="451.5px" height="451.5px" viewBox="0 0 461.5 461.5" enable-background="new 0 0 461.5 461.5" xml:space="preserve">
 
 		<g>
@@ -8,12 +8,11 @@
 		
 			<rect id="rect" x="0" y="0" width="50" height="20" fill="gray" stroke="black" stroke-width="1" transform="translate(-25, -10)">
 
-       <animateMotion path="M446.85,280.187c0,30.296-24.56,54.854-54.854,54.854H60.239c-30.296,0-54.854-24.559-54.854-54.854l0,0
-			c0-30.296,24.559-54.854,54.854-54.854h331.756C422.29,225.333,446.85,249.891,446.85,280.187L446.85,280.187z"
-			begin= "0s" dur="2s" repeatCount="1" rotate="auto" fill="freeze"/>
+       			<animateMotion path="M446.85,280.187c0,30.296-24.56,54.854-54.854,54.854H60.239c-30.296,0-54.854-24.559-54.854-54.854l0,0
+				c0-30.296,24.559-54.854,54.854-54.854h331.756C422.29,225.333,446.85,249.891,446.85,280.187L446.85,280.187z"
+				begin= "0s" dur="2s" repeatCount="1" rotate="auto" fill="freeze"/>
     		
 			</rect>
-		</g>
 		</g>
 
 
@@ -21,18 +20,18 @@
 
 		<g onclick="document.getElementById('svgobject').unpauseAnimations()"transform="translate(160 100)">
 			
-    	<rect width="60" height="30" rx="10" stroke="black" fill-opacity="0.2"/>
+    		<rect width="60" height="30" rx="10" stroke="black" fill-opacity="0.2"/>
 
-    	<text style="font:16px Arial Black;fill:white;stroke:black" transform="translate(2 20)">START</text>
+    		<text style="font:16px Arial Black;fill:white;stroke:black" transform="translate(2 20)">START</text>
 
 		</g>
 
 		<g onclick="document.getElementById('svgobject').pauseAnimations()"transform="translate(260 100)">
 			
-    	<rect width="60" height="30" rx="10" stroke="black" fill-opacity="0.2"/>
+    		<rect width="60" height="30" rx="10" stroke="black" fill-opacity="0.2"/>
 
-    	<text style="font:16px Arial Black;fill:white;stroke:black" transform="translate(5 20)">STOP</text>
+    		<text style="font:16px Arial Black;fill:white;stroke:black" transform="translate(5 20)">STOP</text>
 
 		</g>
 
-		</svg>
+	</svg>
